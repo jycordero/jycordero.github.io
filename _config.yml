@@ -7,7 +7,8 @@ favicon: images/favicon.ico
 name: Joseph Cordero Mercado
 title: Ph.D. Research Assistant
 email: joseph.cordero1@gmail.com
-website: www.github.com/jycordero/resume-theme
+#website: www.github.com/jycordero/resume-theme
+website: jycordero.github.io
 
 # Social links
 #twitter_username: faces
@@ -24,10 +25,9 @@ linkedin_username: joseph-y-cordero-mercado-896ab58b
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, I am Joseph a Physics Ph.D. student in the field of Particle physics. As part of my job I access data from the Large Hadron colider in order to BLAH BLAH.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>Bash</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -37,6 +37,9 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Education Section
 # educaton_title: Education
+
+# Awards Section
+# awards_title: Awards
 
 # More Section
 # more_title: A Little More About Me
