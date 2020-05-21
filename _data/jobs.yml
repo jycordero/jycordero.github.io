@@ -1,0 +1,20 @@
+- layout: left
+  company: Beacon Academy
+  #  link: boringcompany.com
+  job_title: Teacher Assistant
+  dates: November 2017 - December 2017
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * Helped the entire ten student class  increase their interest in physics through one-to-one mentoring
+    * Improve student grades as expressed by the director
+
+- layout: left
+  company: Beacon Academy
+  #  link: boringcompany.com
+  job_title: Teacher
+  dates: January 2018 - December 2018
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * Shared teaching roles with another teacher while working full time in Ph.D.
+    * Actively communicated with co-worker to aid in any physics topic while I got teaching mentorship from her.
+    * Played an instrumental role in the students progression as expressed by the senior co-worker.

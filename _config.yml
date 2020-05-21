@@ -30,6 +30,9 @@ about_content: | #This will include new lines to allow a paragraphs
 
   I am most skilled in: <mark>Python</mark> and <mark>Bash</mark>
 
+# Jobs Section
+# Jobs_title: Job Experience
+
 # Projects Section
 # projects_title: Projects
 
@@ -38,6 +41,9 @@ about_content: | #This will include new lines to allow a paragraphs
 
 # Education Section
 # educaton_title: Education
+#
+# Leadership Section
+# leardership_title: Leadership Roles
 
 # Awards Section
 # awards_title: Awards
@@ -47,7 +53,11 @@ about_content: | #This will include new lines to allow a paragraphs
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Solving Jigsaw puzzles
-   - Avid youtube consumer ()
+   - Avid youtube consumer
+     - 
+   - Avid podcast listener
+     - Freakonomics
+     - 
    - Exploring new food
 
 # Footer

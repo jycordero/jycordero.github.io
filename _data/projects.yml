@@ -1,16 +1,16 @@
 #- layout: top-middle
 - layout: left
   name: Personal Wiki hosted in LAMP stacl
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  link: https://moinmo.in/
+  #github: sproogen/resume-theme
   #quote: >
   description: | # this will include new lines to allow paragraphs
     * Self-taught Apache web server to configure a personal wiki accessible by a public domain name
     #- layout: top-middle
 - layout: left
   name: Personal MySQL Recipe Database 
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
   #quote: >
   description: | # this will include new lines to allow paragraphs
     * Started the collection of recipes in Google Spreadsheet format
