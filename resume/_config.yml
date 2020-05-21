@@ -25,8 +25,8 @@ linkedin_username: joseph-y-cordero-mercado-896ab58b
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
+about_content: | #This will include new lines to allow a paragraphs
   Hi, I am Joseph a Physics Ph.D. student in the field of Particle physics. As part of my job I access data from the Large Hadron colider in order to BLAH BLAH.
-
   I am most skilled in: <mark>Python</mark> and <mark>Bash</mark>
 
 # Projects Section
