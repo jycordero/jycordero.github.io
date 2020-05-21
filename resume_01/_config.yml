@@ -1,0 +1,64 @@
+# Site
+#repository: sproogen/resume-theme
+#repository: jycordero/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Joseph Cordero Mercado
+title: Ph.D. Research Assistant
+email: joseph.cordero1@gmail.com
+#website: www.github.com/jycordero/resume-theme
+website: jycordero.github.io
+
+# Social links
+#twitter_username: faces
+github_username:  jycordero
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: josephcordero3
+linkedin_username: joseph-y-cordero-mercado-896ab58b
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | #This will include new lines to allow a paragraphs
+  Hi, I am Joseph a Physics Ph.D. student in the field of Particle physics. As part of my job I access data from the Large Hadron colider in order to BLAH BLAH.
+
+  I am most skilled in: <mark>Python</mark> and <mark>Bash</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# Awards Section
+# awards_title: Awards
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Solving Jigsaw puzzles
+   - Avid youtube consumer ()
+   - Exploring new food
+
+# Footer
+footer_show_references: true
+
+# Build settings
+#remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  #style: compressed
+
+plugins:
+ - jekyll-seo-tag

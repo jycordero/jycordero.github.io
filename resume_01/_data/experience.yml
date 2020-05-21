@@ -1,0 +1,22 @@
+- layout: left
+  company: Northwestern University
+  #  link: boringcompany.com
+  job_title: Research Assistant
+  dates: June 2015 - June 2018
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * Build what would be 2 full scale experiments in the field
+    * Built custom electronics for reliable operation of the experiment (ex. PID Controllers for laser power and temperature stability)
+    * Designed and built custom optical systems that achieved X% bigger light capture
+    * Programmed operation control software in Labview and Python PyQt5 module
+
+- layout: left
+  company: Northwestern University
+  #  link: boringcompany.com
+  job_title: Research Assistant
+  dates: June 2018 - Present
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * Utilize HTCondor  to extract data from the Large Hadron Collider
+    * Data analysis on Terabytes of data
+    * Use monte carlo simulations and fitting routines to separate signal from a background model
