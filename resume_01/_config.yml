@@ -58,7 +58,7 @@ footer_show_references: true
 
 sass:
   sass_dir: _sass
-  #style: compressed
+  style: compressed
 
 plugins:
  - jekyll-seo-tag
