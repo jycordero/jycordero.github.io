@@ -1,0 +1,19 @@
+#- layout: top-middle
+- layout: left
+  name: Personal Wiki hosted in LAMP stacl
+  link: github.com/sproogen
+  github: sproogen/resume-theme
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    * Self-taught Apache web server to configure a personal wiki accessible by a public domain name
+    #- layout: top-middle
+- layout: left
+  name: Personal MySQL Recipe Database 
+  link: github.com/sproogen
+  github: sproogen/resume-theme
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    * Started the collection of recipes in Google Spreadsheet format
+    * Used Google Spreadsheet API to load data to MySQL database
+    * Started  “front-end” development in HTML and PHP to access database from web
+
