@@ -1,19 +1,18 @@
-#- layout: top-middle
 - layout: left
-  name: Personal Wiki hosted in LAMP stacl
+  name: Personal Wiki hosted in LAMP stack
   link: https://moinmo.in/
   #github: sproogen/resume-theme
   #quote: >
   description: | # this will include new lines to allow paragraphs
-    * Self-taught Apache web server to configure a personal wiki accessible by a public domain name
-    #- layout: top-middle
+    * Configured an Ubuntu Apache web server to setup a personal wiki accessible by a public domain name
+    * This wiki is used to provide extensive documentation on my professional and personal projects
+
 - layout: left
   name: Personal MySQL Recipe Database 
   #link: github.com/sproogen
   #github: sproogen/resume-theme
   #quote: >
   description: | # this will include new lines to allow paragraphs
-    * Started the collection of recipes in Google Spreadsheet format
-    * Used Google Spreadsheet API to load data to MySQL database
-    * Started  “front-end” development in HTML and PHP to access database from web
-
+    * Data collection in Google Spreadsheet format to provide ease of use to non-technical collaborator
+    * Used Google Spreadsheet API to populate the MySQL database in hosted in my personal server
+    * Initial phase of  “front-end” development in HTML and PHP to provide UI ro non-technical users
