@@ -1,6 +1,0 @@
-<div class="container jobs-container">
-  <h3>{{ site.jobs_title | default: "Job Experience" }}</h3>
-  {% for project in site.data.jobs %}
-    {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
-  {% endfor %}
-</div>

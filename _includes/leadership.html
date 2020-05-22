@@ -1,6 +1,0 @@
-<div class="container leadership-container">
-  <h3>{{ site.leadership_title | default: "Leadership Roles" }}</h3>
-  {% for leadership in site.data.leadership %}
-    {% include {{ leadership.layout | default: 'left' | append: ".html" }} item=leadership %}
-  {% endfor %}
-</div>
