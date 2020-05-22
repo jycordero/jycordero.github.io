@@ -26,9 +26,14 @@ linkedin_username: joseph-y-cordero-mercado-896ab58b
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | #This will include new lines to allow a paragraphs
-  Hi, I am Joseph a Physics Ph.D. student in the field of Particle physics. As part of my job I access data from the Large Hadron colider in order to BLAH BLAH.
+  Hi, I am Joseph a Physics Ph.D. student in the field of Particle Physics. I like to learn and be expose to challenging topics.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Bash</mark>
+
+  Proficient in : <mark>Python</mark> , <mark>Bash</mark>
+
+  Fluent in: <mark>Bash Shell</mark>, <mark>C++</mark>, <mark>SQL</mark>, <mark>Statistics</mark>
+  
+  Basic in: <mark>HTML</mark> , <mark>PHP</mark>, <mark>Machine Learning</mark>
 
 # Jobs Section
 # Jobs_title: Job Experience
@@ -54,11 +59,22 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Solving Jigsaw puzzles
    - Avid youtube consumer
-     - 
+     - Half as Interesting - General Knowledge
+     - In a Nutshell - Science 
+     - 3Blue1Brown - Math
+     - Marques Brownlee - Technoloy
+     - Antonio Garcia Villaran - Art
    - Avid podcast listener
-     - Freakonomics
-     - 
+     - Freakonomics - Economics
+     - Science Vs - Science
+     - On Point - News
+     - First Mondays - Supreme Court
+     - Radiolab - Science
+     - ReConsider - Political Science
    - Exploring new food
+     - Tika Masala
+     - Ramen
+     - Lechon 
 
 # Footer
 footer_show_references: true

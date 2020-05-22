@@ -1,5 +1,12 @@
 - layout: top-middle
   name: NFS-Graduate Research Fellowship Program
   link: www.nsfgrfp.org/
+  date: 2017 - 2021
   description: | # this will include new lines to allow paragraphs
+
+- layout: top-middle
+  name: Enrico Fermi Award
+  date: 2016
+  quote: | # this will include new lines to allow paragraphs
+    Award to the most accomplished students in physics on that year
 

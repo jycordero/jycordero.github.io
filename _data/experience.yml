@@ -23,3 +23,35 @@
     * Programmed control software with millisecond accuracy in Labview and Python PyQt5 module
 
 
+- layout: left
+  company: Universit of Rochester
+  #  link: boringcompany.com
+  job_title: Research Experience for Undergraduates(REU)
+  dates: June 2015 - June 2018
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * I replicated results obtained by Dr. Kwiat and others from University of Illinois, Urbana Champaign. I needed to engineer a polarization entangled state, which a graduate student would use for a quantum enigma machine demonstration.
+
+- layout: left
+  company: Swiss Federal Institute of Technology(ETH)
+  #  link: boringcompany.com
+  job_title: Undergraduate researcher
+  dates: |
+    2012 - 2013
+    (1 Semester)
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * I studied the behavior of the bandgap voltage under proton and gamma radiation for the CMS digital pixel module. I also compared the behavior of two new implementations of the bandgap circuit with the old one.
+
+
+- layout: left
+  company: Paul Scherrer Institut (PSI)
+  #  link: boringcompany.com
+  job_title: Undergraduate researcher
+  dates: |
+    2010 - 2013
+    (3 Summers)
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * My study analyzed the cooling performance of two thermal conducting pastes. I calibrated and used several Resistant Temperature Devices to measure the temperature distribution as a function of power on the CMS Pixel Barrel Module.
+    * Design a warning system for when the CMS cooling performs under hazardous conditions. I analyzed the optical transmission of a light source through a cooling pipe and designed an algorithm that measures the water vapor fraction. By accounting intensity differences on the signal, the system was able to identify changes in phases between liquid and gas.
