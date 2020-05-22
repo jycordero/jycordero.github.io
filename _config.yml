@@ -4,7 +4,7 @@
 favicon: images/favicon.ico
 
 # Personal info
-name: Joseph Cordero Mercado
+name: Joseph Y. Cordero Mercado
 title: Ph.D. Research Assistant
 email: joseph.cordero1@gmail.com
 #website: www.github.com/jycordero/resume-theme
@@ -26,9 +26,13 @@ linkedin_username: joseph-y-cordero-mercado-896ab58b
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | #This will include new lines to allow a paragraphs
-  Hi, I am Joseph a Physics Ph.D. student in the field of Particle physics. As part of my job I access data from the Large Hadron colider in order to BLAH BLAH.
+  Hi, I am Joseph a Physics Ph.D. student in the field of Physics. Along my development professionally and personally, I have placed myself in situations where I had to learn the skills sets on the go. I like to work in teams where I can validate or kill ideas fast and I am very open minded to constructive critism as I see it as an important aspect of fast growth. In the last 5 years I have had to be a physicist. engineer, programmer, machinist, plommer, laser operator, and others.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Bash</mark>
+  Proficient in : <mark>Python</mark>, <mark>Bash</mark>
+
+  Fluent in: <mark>Bash Shell</mark>, <mark>C++</mark>, <mark>SQL</mark>, <mark>Statistics</mark>
+
+  Basic in: <mark>HTML</mark> , <mark>PHP</mark>, <mark>Machine Learning</mark> 
 
 # Jobs Section
 # Jobs_title: Job Experience
@@ -51,14 +55,25 @@ about_content: | #This will include new lines to allow a paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Solving Jigsaw puzzles
-   - Avid youtube consumer
-     - 
-   - Avid podcast listener
-     - Freakonomics
-     - 
-   - Exploring new food
+  Some of my other insterests are : 
+    - Solving Jigsaw puzzles
+    - Avid youtube consumer
+      - Half as Interesting - General Knowledge
+      - In a Nutshell - Science
+      - 3Blue1Brown - Math
+      - Marques Brownlee - Technoloy
+      - Antonio Garcia Villaran - Art
+    - Avid podcast listener
+      - Freakonomics - Economics
+      - Science Vs - Science
+      - On Point - News
+      - First Mondays - Supreme Court
+      - Radiolab - Science
+      - ReConsider - Political Science
+    - Exploring new food
+      - Tika Masala
+      - Ramen
+      - Lechon
 
 # Footer
 footer_show_references: true
