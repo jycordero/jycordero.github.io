@@ -1,18 +1,20 @@
+
 - layout: top-middle
-  name: University of Puerto Rico, Mayaguez
-  dates: 2010 - 2013
-  qualification: BS Physics
-  quote: > 
-    Antes, Ahora, Siempre COLEGIO!
+  name: Northwestern University
+  dates: 2015 - Present(ABD) GPA 3.52
+  qualification: PhD Physics
+  quote: >
 
 - layout: top-middle
   name: Northwestern University
   dates: 2015 - 2017
-  qualification: MS Physics
+  qualification: MS Physics GPA 3.52
   quote: >
 
+
 - layout: top-middle
-  name: Northwestern University
-  dates: 2015 - Present(ABD)
-  qualification: PhD Physics
-  quote: >
+  name: University of Puerto Rico, Mayaguez
+  dates: 2010 - 2015
+  qualification: BS Physics GPA 3.87
+  quote: > 
+    Antes, Ahora, Siempre COLEGIO!
