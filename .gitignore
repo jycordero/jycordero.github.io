@@ -1,2 +1,4 @@
-/resume_01/_site/
-/resume_01/_site/*
+_site/
+_site/*
+
+*.swp
