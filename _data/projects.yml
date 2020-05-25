@@ -1,0 +1,20 @@
+- layout: left
+  name: Personal MySQL Recipe Database 
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    * Collect data in Google Spreadsheet format to provide ease of use to non-technical collaborator
+    * Utilize Google Spreadsheet API to populate the MySQL database hosted in my personal server
+    * Front-end in development (HTML and PHP) to provide non-technical users a UI
+
+- layout: left
+  name: Personal Wiki hosted in LAMP stack
+  link: https://moinmo.in/
+  #github: sproogen/resume-theme
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    * Configured an Ubuntu Apache web server to setup a personal wiki powered by MoinMoin and accessible by a public domain name
+    * This wiki page is used to provide extensive documentation on my thesis and personal projects
+
+
