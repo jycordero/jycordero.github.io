@@ -5,10 +5,9 @@
   dates: June 2018 - Present
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * Utilize HTCondor  to extract data from the Large Hadron Collider 
-    * Data analysis on Terabytes of data
-    * Use monte carlo simulations and fitting routines to separate signal from a background model
-    * Utilize HTCondor  to extract data from the Large Hadron Collider
+    * Developed a Python framework to conduct data analysis on terabytes of particle accelerator data.
+    * Performed statistical tests to mitigate detector and simulation effects from data. 
+    * Utilize monte carlo simulations and fitting routines to separate signal from a background model
 
 - layout: left
   company: Northwestern University
@@ -17,9 +16,7 @@
   dates: June 2015 - June 2018
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * Planned, designed and built bench top experimental set-up for atom and ion trapping
+    * Planned, designed and built a benchtop experimental set-up for atom and ion trapping
     * Built custom electronics for reliable operation of the ion/atom trapping experiment (ex. PID Controllers for laser power and temperature stability)
-    * Designed and built custom optical systems that increased light capture from 1% to 4%  for shorter integration times.
+    * Designed and built custom optical systems that increased light capture from 1% to 4%  for shorter integration times
     * Programmed control software with millisecond accuracy in Labview and Python PyQt5 module
-
-

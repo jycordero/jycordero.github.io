@@ -1,22 +1,22 @@
 - layout: left
   company: Beacon Academy
   #  link: boringcompany.com
-  job_title: Teacher
+  job_title: High School Teacher
   dates: January 2018 - December 2018
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * Shared half of the teaching duties while also working full time in Ph.D.
+    * Design all teaching material (lecture, quiz, exams), while also working a full-time Ph.D. student
     * Actively communicated with senior co-worker to coordinate work and teaching duties
-    * As the local physics expert, I clarified and gave feedback on the class topics to my co-worker
-    * Played an instrumental role in the students progression as expressed by the senior co-worker.
+    * As the local physics expert, I clarified and provided feedback on the class topics to my co-worker
+    * Played an instrumental role in the students’ progression, as expressed by the senior co-worker.
 
 - layout: left
   company: Beacon Academy
   #  link: boringcompany.com
-  job_title: Teacher Assistant
+  job_title: High School Teacher Assistant
   dates: November 2017 - December 2017
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * Helped the entire student class increase their interest in physics through one-to-one mentoring
-    * Improve student grades as expressed by the director
+    * Helped the entire student class increase their interest in physics through one-on-one mentoring
+    * Teaching approach yielded higher student grades, as expressed by the director
 
