@@ -22,7 +22,7 @@ export default function Header() {
         <img
           src={profileImage}
           alt={name}
-          className="w-full h-full object-cover object-center"
+          className="w-full h-full object-cover object-top"
         />
       </div>
 
