@@ -17,17 +17,21 @@ export default function Header() {
   return (
     <div className="flex flex-col h-full">
 
-      {/* Photo — fixed viewport height so it works on both desktop and mobile */}
-      <div className="w-full overflow-hidden h-[52vh] flex-shrink-0">
+      {/* Photo
+          Mobile : fixed 55vw height so it's visible when stacked
+          Desktop: flex-1 fills all space above the info block,
+                   giving the portrait room to breathe               */}
+      <div className="w-full overflow-hidden h-[55vw] md:h-auto md:flex-1 md:min-h-0">
         <img
           src={profileImage}
           alt={name}
-          className="w-full h-full object-cover object-top"
+          className="w-full h-full object-cover"
+          style={{ objectPosition: 'center 20%' }}
         />
       </div>
 
-      {/* Info */}
-      <div className="flex flex-col justify-between flex-1 px-6 md:px-10 pt-7 pb-8">
+      {/* Info — never shrinks, always sits at the bottom */}
+      <div className="flex-none flex flex-col gap-5 px-6 md:px-10 pt-7 pb-8">
 
         <div>
           <h1 className="font-sans font-semibold text-[#1C1C1C] leading-none tracking-tight">
@@ -40,19 +44,17 @@ export default function Header() {
           )}
         </div>
 
-        {/* Resume button */}
         {resume && (
           <a
             href={resume}
             download="Joseph_Cordero_Resume"
-            className="mt-6 inline-block border border-[#0A3055] text-[#0A3055] px-5 py-2 text-[11px] font-semibold uppercase tracking-[0.15em] hover:bg-[#0A3055] hover:text-white transition-colors duration-200 self-start"
+            className="inline-block self-start border border-[#0A3055] text-[#0A3055] px-5 py-2 text-[11px] font-semibold uppercase tracking-[0.15em] hover:bg-[#0A3055] hover:text-white transition-colors duration-200"
           >
             Download Resume
           </a>
         )}
 
-        {/* Social icons */}
-        <div className="flex items-center gap-5 mt-5">
+        <div className="flex items-center gap-5">
           {SOCIAL.map(({ key, Icon, href, title: label }) => {
             const username = key === 'email' ? email : key === 'phone' ? phone : social[key]
             if (!username) return null
