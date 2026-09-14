@@ -2,7 +2,7 @@ export const experience = [
   {
     company: 'Collectiv',
     jobTitle: 'Data Platform Architect',
-    dates: 'Nov 2023 – Present',
+    dates: 'Nov 2023 – Apr 2026',
     location: 'Lakeland, FL',
     bullets: [
       'Architected and delivered a secure, medallion Azure data and ML platform within a GCC High environment, enabling the client\'s first end-to-end machine learning solution. Drove network design and compliance alignment across custom DNS, client-managed VNets, and private endpoints. Implemented enterprise-grade CI/CD with Azure DevOps for ADF and Databricks, and operationalized ML lifecycle management using MLflow.',
